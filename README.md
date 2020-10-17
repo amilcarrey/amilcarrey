@@ -15,14 +15,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilcarrey&layout=compact" alt="amilcarrey" />
 </p>
 
-</hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/amilcarrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amilcarrey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amilcarrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amilcarrey" height="30" width="40" /></a>
-<a href="https://instagram.com/amilcarrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amilcarrey" height="30" width="30" /></a>
-</p>
-
-
 
 
