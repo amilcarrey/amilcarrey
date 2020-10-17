@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilcarrey&layout=compact" alt="amilcarrey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amilcarrey&show_icons=true" alt="amilcarrey" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amilcarrey&show_icons=true" alt="amilcarrey" /></p>
 
