@@ -20,8 +20,7 @@
 
 
 
-<p align="center" floar="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=amilcarrey&show_icons=true" alt="amilcarrey" />
+<p align="center">    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilcarrey&layout=compact" alt="amilcarrey" />
 </p>
 
