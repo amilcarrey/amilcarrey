@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Cloud Native, Data Visualization**
 
+- 🔨 I’m working right now on a portfolio for a designer using **Nuxt, TailwindCss and StoryBlok**
+
 - 📫 You can reach me at **amilcarrey.ar@gmail.com**
 
 
