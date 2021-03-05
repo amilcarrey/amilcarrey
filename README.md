@@ -3,7 +3,7 @@
 <h3 align="center">System Engineer passionate about technology</h3>
 
 
-- 🌱 I’m currently learning **StoryBlok and JAMStack best practices**
+- 🌱 I’m currently reading about **DDD and DevOps best practices**
 
 - 🔨 I’m working right now on a portfolio for a designer using **Nuxt, TailwindCss and StoryBlok**
 
