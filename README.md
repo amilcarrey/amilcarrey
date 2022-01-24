@@ -3,9 +3,9 @@
 <h3 align="center">System Engineer passionate about technology</h3>
 
 
-- 🌱 I’m currently reading about **DDD and DevOps best practices**
+- 🌱 I’m currently reading about **Blockchain develpment best practices**
 
-- 🔨 I’m working right now on a portfolio for a designer using **Nuxt, TailwindCss and StoryBlok**
+- 🔨 I’m working right now on a project over Polygon and using **Next.js, Hardhat and Tailwind **
 
 - 📫 You can reach me at **amilcarrey.ar@gmail.com**
 
