@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reading about **Blockchain develpment best practices**
 
-- 🔨 I’m working right now on a project over Polygon and using **Next.js, Hardhat and Tailwind **
+- 🔨 I’m working right now on a project over Polygon and ** Next.js, Hardhat and Tailwind **
 
 - 📫 You can reach me at **amilcarrey.ar@gmail.com**
 
