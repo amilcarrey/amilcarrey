@@ -7,9 +7,5 @@
 
 - 📫 You can reach me at **amilcarrey.ar@gmail.com**
 
-<p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilcarrey&layout=compact" alt="amilcarrey" />
-</p>
-
 
 
